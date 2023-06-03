@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MiPueblo</string>
+
+
+    <string name="descripcionHoteles">
+        En Chinacota encontraras hoteles y parques agradables para cad uno de los
+        miembros de tu familia y amigos.
+    </string>
 </resources>
