@@ -6,4 +6,9 @@
         En Chinacota encontraras hoteles y parques agradables para cad uno de los
         miembros de tu familia y amigos.
     </string>
+
+    <string name="opcion1">Español</string>
+    <string name="opcion2">ingles</string>
+    <string name="opcion3">italiano</string>
+    <string name="opcion4">acerca de</string>
 </resources>

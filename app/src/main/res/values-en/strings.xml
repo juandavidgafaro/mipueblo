@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">my people</string>
+
+    <string name="descripcionHoteles">
+        In Chinacota you will find nice hotels and parks for each of the
+        members of your family and friends.
+    </string>
+
+    <string name="opcion1">Spanihs</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Italian</string>
+    <string name="opcion4">About us</string>
+</resources>

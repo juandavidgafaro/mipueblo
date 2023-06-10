@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La mia gente</string>
+
+
+    <string name="descripcionHoteles">
+        A Chinacota troverai bei hotel e parchi per ognuno dei
+        membri della tua famiglia e dei tuoi amici.
+    </string>
+
+    <string name="opcion1">spagnolo</string>
+    <string name="opcion2">Inglese</string>
+    <string name="opcion3">Italiano</string>
+    <string name="opcion4">Di</string>
+</resources>
