@@ -5,6 +5,27 @@
     <string name="descripcionHoteles">
         En Chinacota encontraras hoteles y parques agradables para cad uno de los
         miembros de tu familia y amigos.
+
+        Al ser un lugar tan turistico contaras con un hospedaje con un excelente servicio y diponibilidad para
+        brindarte la mejor comodidad y que disfrutes de tus vaciones con un hospedaje que hecho para
+        tí.
+    </string>
+
+    <string name="descripcionRestaurantes">
+        En Chinacota encontraras nuevas experiencias con tu paladar pues tienes
+        que animarte a probar la diversidad gastronomica de este hermoso lugar.
+
+        Algunos de sus delicias gratronomicas son:
+        * Cacaitos chitareros: Este es un dulce derivado de la panela que junto con
+        otros ingredientes forman uno de los dulces mas consumido por la población
+        lugareña.
+    </string>
+
+    <string name="descripcionSitios">
+        Bienvenido a chinacota un pueblo muy acogedor para ti y tu familia,
+        lleno de muchos lugares por conocer disfruta de su clima en la parte de
+        cabecera del publo conocido como iscala, alli pordar gener un camping con tus
+        amigos y disfrutar de sus verdes montañas.
     </string>
 
     <string name="opcion1">Español</string>
