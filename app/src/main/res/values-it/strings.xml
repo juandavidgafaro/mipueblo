@@ -2,6 +2,10 @@
 <resources>
     <string name="app_name">La mia gente</string>
 
+    <string name="bt_hoteles">Alberghi</string>
+    <string name="bt_restaurantes">RISTORANTI</string>
+    <string name="bt_sitios">SITI TURISTICI</string>
+
     <string name="descripcionHoteles">
         A Chinacota troverai bei hotel e parchi per ognuno dei
         membri della tua famiglia e dei tuoi amici.
@@ -32,4 +36,7 @@
     <string name="opcion2">Inglese</string>
     <string name="opcion3">Italiano</string>
     <string name="opcion4">Di</string>
+
+    <!-- Textos de la parte de acerca de:  -->
+    <string name="camponombre">Sviluppatore: Juan David Gafaro Garcia</string>
 </resources>

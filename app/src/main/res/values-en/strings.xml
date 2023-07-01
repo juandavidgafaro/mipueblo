@@ -3,6 +3,10 @@
 
     <string name="app_name">my people</string>
 
+    <string name="bt_hoteles">HOTELS</string>
+    <string name="bt_restaurantes">RESTAURANTS</string>
+    <string name="bt_sitios">TOURIST SITES</string>
+
     <string name="descripcionHoteles">
         In Chinacota you will find nice hotels and parks for each of the
         members of your family and friends.
@@ -33,4 +37,10 @@
     <string name="opcion2">English</string>
     <string name="opcion3">Italian</string>
     <string name="opcion4">About us</string>
+
+    <!-- Textos de la parte de acerca de:  -->
+    <string name="camponombre">Developer: Juan David Gafaro Garcia</string>
+
+
+
 </resources>

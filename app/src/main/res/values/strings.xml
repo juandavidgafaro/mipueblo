@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">MiPueblo</string>
 
+    <string name="bt_hoteles">Hoteles</string>
+    <string name="bt_restaurantes">RESTAURANTES</string>
+    <string name="bt_sitios">SITIOS TURISTICOS</string>
 
     <string name="descripcionHoteles">
         En Chinacota encontraras hoteles y parques agradables para cad uno de los
@@ -32,4 +35,7 @@
     <string name="opcion2">ingles</string>
     <string name="opcion3">italiano</string>
     <string name="opcion4">acerca de</string>
+
+    <!-- Textos de la parte de acerca de:  -->
+    <string name="camponombre">Desarrollador: Juan David Gafaro Garcia</string>
 </resources>
