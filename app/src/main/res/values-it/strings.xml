@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">La mia gente</string>
 
+    <string name="nombre_pueblo">CINACOTA</string>
     <string name="bt_hoteles">Alberghi</string>
     <string name="bt_restaurantes">RISTORANTI</string>
     <string name="bt_sitios">SITI TURISTICI</string>
@@ -38,5 +39,16 @@
     <string name="opcion4">Di</string>
 
     <!-- Textos de la parte de acerca de:  -->
-    <string name="camponombre">Sviluppatore: Juan David Gafaro Garcia</string>
+    <string name="camponombredev">Sviluppatore: Juan David Gafaro Garcia</string>
+    <string name="descripcion_dev">Piacere di conoscerti è stato un piacere portare avanti lo sviluppo
+    di questo grande progetto Android.
+    È stato proposto di sviluppare un app incentrata sulla pubblicità di alcune delle città circostanti
+    rivelando le sue parti più suggestive per i futuri turisti; perché con quello avrai un contesto
+    più chiaro sul luogo che si andrà a visitare, ottenendo dati chiave per godersi questo momento
+    nel modo migliore.</string>
+    <string name="set_contacto">Se sei interessato ad assumere i miei servizi, puoi farlo tramite:
+    posta: davidGG123@gmail.com
+    cellulare: 3225297564
+    </string>
+
 </resources>

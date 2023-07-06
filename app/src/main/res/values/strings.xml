@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MiPueblo</string>
 
+    <string name="nombre_pueblo">CHINACOTA</string>
     <string name="bt_hoteles">Hoteles</string>
     <string name="bt_restaurantes">RESTAURANTES</string>
     <string name="bt_sitios">SITIOS TURISTICOS</string>
@@ -37,5 +38,15 @@
     <string name="opcion4">acerca de</string>
 
     <!-- Textos de la parte de acerca de:  -->
-    <string name="camponombre">Desarrollador: Juan David Gafaro Garcia</string>
+    <string name="camponombredev">Desarrollador: Juan David Gafaro Garcia</string>
+    <string name="descripcion_dev">Mucho gusto para mí fue un placer llevar a cabo el desarrollo
+    de este grandioso proyecto de android.
+    Se planteo desarrollar una app que estuviera enfocada a dar a conocer algunos de los pueblos aledaños
+    dando a conocer sus partes mas llamativas para futuros turistas; pues con ello se tendra un contexto
+    mas claro acerca del lugar el cual se va a visitar, obteniendo datos claves para disfrutar este momento
+    de la mejor manera.</string>
+    <string name="set_contacto">Si te interesa contratar mis servicios lo puedes haces a travez de:
+    Correo: davidGG123@gmail.com
+    Celular: 3225297564
+    </string>
 </resources>

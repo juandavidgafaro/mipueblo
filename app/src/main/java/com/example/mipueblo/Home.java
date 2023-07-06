@@ -93,7 +93,8 @@ public class Home extends AppCompatActivity {
                 startActivity(intentItaliano);
                 break;
             case (R.id.opcion4):
-                Toast.makeText(this, "Accionaste Acerca de", Toast.LENGTH_SHORT).show();
+                Intent intentAcercaDe = new Intent(Home.this, acercade.class);
+                startActivity(intentAcercaDe);
                 break;
         }
         return super.onOptionsItemSelected(item);

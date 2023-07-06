@@ -4,28 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".acercade">
+    tools:context=".acercade"
+    android:background="@drawable/fondoacercad">
 
     <ImageView
 
-        android:id="@+id/logo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:background="@color/teal_200"
+        android:id="@+id/avatar"
+        android:layout_width="220dp"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
 
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
-        android:src="@drawable/parq"
+        android:src="@drawable/avatar"
 
-        app:layout_constraintVertical_bias="0.15"
+        app:layout_constraintVertical_bias="0.07"
 
         />
 
     <TextView
-        android:id="@+id/titulo"
-        app:layout_constraintVertical_bias="0.35"
+        android:id="@+id/nombre_dev"
+        app:layout_constraintVertical_bias="0.37"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -33,12 +34,43 @@
 
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="NOMBRE DEL PUEBLO"
+        android:text="@string/camponombredev"
         android:textAlignment="center"
         android:textSize="24dp"
-        android:textColor="@color/deeppink"
+        android:textColor="@color/aqua"
         android:textStyle="bold" />
 
+    <TextView
+        android:id="@+id/descripcion"
+        app:layout_constraintVertical_bias="0.80"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/descripcion_dev"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        android:textColor="@color/floralwhite"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/contacto"
+        app:layout_constraintVertical_bias="0.98"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set_contacto"
+        android:textAlignment="center"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textStyle="bold" />
 
 
 </android.support.constraint.ConstraintLayout>

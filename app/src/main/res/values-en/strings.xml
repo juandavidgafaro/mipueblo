@@ -3,6 +3,7 @@
 
     <string name="app_name">my people</string>
 
+    <string name="nombre_pueblo">CHINACOTA</string>
     <string name="bt_hoteles">HOTELS</string>
     <string name="bt_restaurantes">RESTAURANTS</string>
     <string name="bt_sitios">TOURIST SITES</string>
@@ -39,7 +40,19 @@
     <string name="opcion4">About us</string>
 
     <!-- Textos de la parte de acerca de:  -->
-    <string name="camponombre">Developer: Juan David Gafaro Garcia</string>
+    <string name="camponombredev">Developer: Juan David Gafaro Garcia</string>
+    <string name="descripcion_dev">Nice to meet you it was a pleasure to carry out the development
+    of this great android project.
+    It was proposed to develop an app that was focused on publicizing some of the surrounding towns
+    revealing its most striking parts for future tourists; Well, with that you will have a context
+    clearer about the place which is going to be visited, obtaining key data to enjoy this moment
+    in the best way.</string>
+    <string name="set_contacto">If you are interested in hiring my services you can do it through:
+    Mail: davidGG123@gmail.com
+    cell phone: 3225297564
+    </string>
+
+
 
 
 
